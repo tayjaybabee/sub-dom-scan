@@ -173,6 +173,9 @@ Pipfile.lock
 # TJB: Add poetry.lock here, too
 poetry.lock
 
+# Add all .idea folder.
+.idea/
+
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
